@@ -1,1 +1,1 @@
-# simple_grocery_management_system
+# Simple_Grocery_Management_System
